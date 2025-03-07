@@ -1,1 +1,0 @@
-import{_ as n}from"./NMyiRJuO.js";import{f as o,c as r,o as s,b as t,g as c}from"./4ftw6NSw.js";import"./Crw_Q4sF.js";const p={class:"bitran-paragraph"},l=o({__name:"Paragraph",props:{node:{}},setup(e){const a=e.node.parseData;return(_,i)=>(s(),r("p",p,[t(n,{node:c(a)},null,8,["node"])]))}});export{l as default};

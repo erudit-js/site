@@ -1,2 +1,2 @@
 ~!~FUNC~!~return (contentTitle) =>
-  `Various problems with hints and answers on the topic "${contentTitle}". Interesting conditions, hints and detailed solutions. Turn knowledge into a skill!`
+  `Разнообразные задачи с подсказками и ответами по теме «${contentTitle}». Интересные условия, подсказки и подробные решения. Превратите знания в навык!`
