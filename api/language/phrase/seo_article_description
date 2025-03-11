@@ -1,2 +1,2 @@
 ~!~FUNC~!~return (contentTitle) =>
-  `Понятное и интересное объяснение темы «${contentTitle}». Показательные примеры, важные свойства, интересные факты, применение в жизни, понятные доказательства. Здесь вы точно разберетесь!`
+  `Clear and interesting explanation of the topic "${contentTitle}". Illustrative examples, important properties, interesting facts, life applications, clear proofs. Here you will definitely understand the topic!`
