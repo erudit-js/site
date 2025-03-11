@@ -3,8 +3,8 @@
     "name": "@erudit-js/site",
     "type": "module",
     "dependencies": {
-        "erudit": "3.0.0-dev.4",
-        "erudit-cli": "3.0.0-dev.4"
+        "erudit": "3.0.0-dev.6",
+        "@erudit-js/bitran-elements": "3.0.0-dev.6"
     },
     "devDependencies": {
         "@types/node": "^22.13.9",

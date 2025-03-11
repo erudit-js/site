@@ -1,18 +1,11 @@
+import {
+    blockMathElement,
+    inlineMathElement,
+} from '@erudit-js/bitran-elements/math/element';
+
 export default defineBitranConfig({
-    products: {
-        blockMath: {
-            async core() {
-                return { core: 42 } as any;
-            },
-            async render() {
-                const icon = null;
-                const component = null;
-                return {
-                    icon,
-                    component,
-                } as any;
-            },
-        },
+    elements: {
+        math: blockMathElement,
+        imath: inlineMathElement,
     },
-    toc: ['blockMath'],
 });
