@@ -1,0 +1,2 @@
+import{f as r,z as i,a0 as l,a1 as m,a2 as p,a3 as _,a4 as g,a5 as u,v,o as I,a6 as h}from"./CiBNX5Fz.js";const d=r({__name:"MyInlineIcon",props:{svg:{},name:{},wrapper:{}},setup(s){const n=s,t=i(()=>{try{const a=l(n.svg),e=`__my-icons-inline__${m(a)}`,c=p(a,e);return _(n,"#"+e,c)}catch(a){return g(`Failed to resolve inline icon "${n.name}"!
+Reason: ${(a==null?void 0:a.message)||a}`),u(n)}});return(a,o)=>(I(),v(h,{data:t.value},null,8,["data"]))}}),y=Object.assign(d,{__name:"MyInlineIcon"});export{y as default};

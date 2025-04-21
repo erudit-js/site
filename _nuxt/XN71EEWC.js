@@ -1,0 +1,1 @@
+import{r as n}from"./jTRQ5ZsA.js";import{g as a}from"./TO1_kQR6.js";import{e as t}from"./BPgHF7zz.js";import{u as o}from"./C8Tpl-oc.js";async function c(){t();const e=o(),r=a();return await n(e,r||"en")}export{c as u};
